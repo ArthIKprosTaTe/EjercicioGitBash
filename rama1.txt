@@ -1,4 +1,6 @@
 Soy rama1
+<<<<<<< HEAD
+Estos son cambios. Somos igual que nuestra mamá. No hacemos conflicto.
+=======
 Estos son cambios
-Somos igual que nuestra mamá.
-No hacemos conflicto.
+>>>>>>> mirama
