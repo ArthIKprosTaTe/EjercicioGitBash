@@ -1,1 +1,4 @@
 Soy rama1
+Estos son cambios
+Somos igual que nuestra mamá.
+No hacemos conflicto.
